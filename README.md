@@ -1,2 +1,2 @@
-# Html-portfolio
+# portfolio
 Pranay's Portfolio
